@@ -12,5 +12,15 @@
 4. In your device’s Bluetooth settings, pair with the fitness app, titled “ECESmartScale”.
 5. Once paired, open the fitness app, navigate to the settings icon, and select “Bluetooth,” then
 select “ECESmartScale”.
+7. If the Bluetooth connection is successful, the red “Disconnected” icon will turn into a blue “Connected” icon.
+8. During the initial setup with the android device, you need to calibrate the smart scale after which calibration will no longer be needed for that particular fitness app installed on the android device. To do this click “Calibration” on the settings page.
+8. Enter a known weight (in grams) into the dialog box, click “Calibrate”, and immediately place the weight on the smart scale.
+9. Wait for the voice prompt stating that "Weighing scale has been calibrated," then close the calibration page by clicking the “X” icon.
+10. Toggle the selector icon to choose whether you want your weight to be displayed in kilograms (kg) or pounds (lb).
+11. Navigate to the homepage by clicking the home icon, then enter your name, age, and gender in the homepage and click start to begin the weight measurement proc12. Stand on the smart scale when prompted with a voice prompt saying “Stand on the weighing platform” with your feet properly aligned on the black line on the smart scale and remain standing still until you hear "Reading taken," then step down. 
+13. Your weight will display on the homepage within five seconds. ess.
+14. If an unusually inaccurate reading occurs, recalibrate the scale to ensure accuracy. 
+15. For a repeat measurement, input your name, age, and gender, then click “Start”. 
+16. To view your measurement history, click “View History”.
 
-
+This step-by-step guide ensures accurate and reliable use of the Bluetooth smart scale for personal fitness tracking. 
